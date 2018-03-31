@@ -26,7 +26,7 @@ You can make OPM Models with draw.io.
 7.  _Reload the page!_ to see the OPM Notation Shapes in the shape panel (_figure 1_).
 
 .figure 1: After the reload, the OPM Notation Shapes are available from the shape panel:
-figs:opm-notation.png[]
+figs::opm-notation.png[]
 
 [[credits]]
 # Credits
