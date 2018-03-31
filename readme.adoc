@@ -10,8 +10,7 @@ Simple [OPM](https://en.wikipedia.org/wiki/Object_Process_Methodology). Diagramm
 # About
 
 You can make OPM Models with draw.io.
-
-![Screenshot ](https://github.com/brendanhall/opm-drawio/blob/master/figs/screenshot.png)
+image::https://github.com/brendanhall/opm-drawio/blob/master/figs/screenshot.png
 
 [[quick-start]]
 
@@ -26,7 +25,7 @@ You can make OPM Models with draw.io.
 7.  _Reload the page!_ to see the OPM Notation Shapes in the shape panel (_figure 1_).
 
 .figure 1: After the reload, the OPM Notation Shapes are available from the shape panel:
-figs::opm-notation.png[]
+image::https://github.com/brendanhall/opm-drawio/blob/master/figs/opm-notation.png
 
 [[credits]]
 # Credits
