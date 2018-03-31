@@ -1,7 +1,7 @@
 
 # opm-drawio
 
-Simple [OPM](https://en.wikipedia.org/wiki/Object_Process_Methodology). Diagramming on Drawio. OPM is an inttriguing approach to light-weight model-based system engineering.
+Simple [OPM](https://en.wikipedia.org/wiki/Object_Process_Methodology). Diagramming on Drawio. OPM is an intriguing approach to light-weight model-based system engineering.
 
 # About
 You can make OPM Models with draw.io.
@@ -27,4 +27,5 @@ You can make OPM Models with draw.io.
 I want to thank the following people and organizations:
 
 * **Tobias Hochgürtel.** It was Toibias's [C4 plugin](https://en.wikipedia.org/wiki/Object_Process_Methodology) which has inspired me to explore this plugin. I used the C4 plugin as the code-base for this plugin:
-* ** [Dov Dori](https://web.iem.technion.ac.il/en/people/userprofile/dori.html) for OPM itself
+* [**Dov Dori**](https://web.iem.technion.ac.il/en/people/userprofile/dori.html) for OPM itself
+* [Draw.io](https://draw.io) for providing draw.io as open source software..
