@@ -1,17 +1,18 @@
 # opm-drawio
 
-Simple [OPM](https://en.wikipedia.org/wiki/Object_Process_Methodology) Diagramming on Drawio. OPM is an inttriguing appoach to light-weaght model-based system engineering.
+Simple [OPM](https://en.wikipedia.org/wiki/Object_Process_Methodology). Diagramming on Drawio. OPM is an inttriguing appoach to light-weaght model-based system engineering.
 
+[[about]]
 
-# Usagec
+# About
 
-
+You can make OPM Models with draw.io.
 
 ![Screenshot ](https://github.com/brendanhall/opm-drawio/blob/master/figs/screenshot.png)
 
 [[quick-start]]
-Quick Start
-~~~~~~~~~~~
+
+# Quick Start
 
 1.  Access to link:https://www.draw.io/[].
 2.  Save the drawing, or decide later: kbd:[File] -> kbd:[Save] -> kbd:[Option]
@@ -22,13 +23,10 @@ Quick Start
 7.  _Reload the page!_ to see the OPM Notation Shapes in the shape panel (_figure 1_).
 
 .figure 1: After the reload, the OPM Notation Shapes are available from the shape panel:
-figs:image:C4NotationShapes.png[]
-## References
-
+figs:image:opm-notation.png[]
 
 [[credits]]
-Credits
-~~~~~~~
+# Credits
 
 I want to thank the following people and organisations:
 
