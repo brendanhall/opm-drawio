@@ -10,7 +10,7 @@ You can make OPM Models with draw.io.
 
 # Quick Start
 
-1.  Access to link:https://www.draw.io/[].
+1.  Access to [DrawIO](https://www.draw.io)
 2.  Save the drawing, or decide later: *[File]* -> *[Save]* -> *[Option]*
 3.  Open the plugin dialog: *[Extras]* -> *[Plugins]*
 4.  Open the add plugin dialog with an click:*[Add]*
@@ -27,3 +27,4 @@ You can make OPM Models with draw.io.
 I want to thank the following people and organizations:
 
 * **Tobias Hochgürtel.** It was Toibias's [C4 plugin](https://en.wikipedia.org/wiki/Object_Process_Methodology) which has inspired me to explore this plugin. I used the C4 plugin as the code-base for this plugin:
+* ** [Dov Dori](https://web.iem.technion.ac.il/en/people/userprofile/dori.html) for OPM itself
