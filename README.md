@@ -1,3 +1,6 @@
+:experimental:
+:imagesdir: figs/
+
 # opm-drawio
 
 Simple [OPM](https://en.wikipedia.org/wiki/Object_Process_Methodology). Diagramming on Drawio. OPM is an inttriguing appoach to light-weaght model-based system engineering.
